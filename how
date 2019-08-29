@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+   <tile>
+     Clever Title
+   </tile>
+ </head>
+ 
+ <body>
+  <div>
+    Hello Web Developers (AKA Basic Information and Website Design)!
+  </div>
+  <a href="How-are-you">
+    I am doing good.
+  </a>
+  </body>
+ </html> 
